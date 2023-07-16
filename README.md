@@ -1,4 +1,11 @@
 # Convolutional-Neural-Network
-Here There are solved assignments for Convolutional Neural Networks Course. 
-Please try to solve all assignment by yourself.
+# Convolutional Neural Networks (CNNs) and Image Recognition
+Convolutional neural networks (CNNs) revolutionized the field of computer vision by achieving remarkable performance in image recognition tasks. CNNs utilize convolutional layers that automatically learn hierarchical representations of visual features, mimicking the organization of the visual cortex in humans. This architecture, combined with techniques like pooling and non-linear activation functions, allowed CNNs to surpass traditional computer vision approaches.
+# AlexNet
+One significant milestone in the development of CNNs was the introduction of AlexNet by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton in 2012. AlexNet won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) by a large margin, demonstrating the power of deep learning algorithms for image classification tasks. It consisted of multiple convolutional and fully connected layers and utilized techniques such as dropout regularization to prevent overfitting. The success of AlexNet sparked a surge of interest in deep learning and led to rapid advancements in various domains involving visual data.
+# Recurrent Neural Networks (RNNs) and Natural Language Processing
+Recurrent neural networks (RNNs) were developed to tackle sequential data processing tasks, particularly in natural language processing (NLP). Unlike feedforward neural networks, RNNs have connections that form loops, allowing them to capture temporal dependencies within sequences effectively. This property makes RNNs suitable for applications like machine translation, sentiment analysis, speech recognition, and text generation.
+# Long Short-Term Memory (LSTM)
+An important milestone in RNN development was the introduction of long short-term memory (LSTM) units by Sepp Hochreiter and Jürgen Schmidhuber in 1997. LSTMs address the vanishing gradient problem, which hinders the training of RNNs on long sequences. By incorporating memory cells and gating mechanisms, LSTMs can selectively retain or forget information over time, making them capable of capturing long-range dependencies. LSTM-based architectures have since become widely used in NLP tasks and have significantly improved the performance of language models and speech recognition systems. These are just a few key milestones in the development of deep learning algorithms. The field continues to evolve rapidly, with ongoing research focusing on areas such as generative models, reinforcement learning, and explainability to further enhance the capabilities and understandings of deep learning systems.
+
 
